@@ -1,8 +1,8 @@
-# .ChptleJvaBrrto
+# Chipotle Ordering System
 
-- A simulation of Chipotle's burrito ordering system with receipt calculation
+- 
 
-# AUTHOR INFO
+## Author Info
 
 - Full Name: Ethan E. Lopez
 - Student ID: 2425516
