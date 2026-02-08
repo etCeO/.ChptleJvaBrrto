@@ -9,16 +9,16 @@
 
 ## Usage
 
-1. Compile (if necessary) or run the program in the development environment (e.g., Python interpreter).
-2. Follow the on-screen prompts to select a burrito base, protein, toppings, and extras.
-3. Once the order is complete, the program calculates the total cost and displays a detailed receipt.
-4. Users may repeat the process to place multiple orders.
+1. Compile (if necessary) or run the program in the development environment (Java).
+2. Proceed to choose the type of burrito base, protein, and other extras through the menu prompts.
+3. Once the order is complete, the program calculates the total cost and displays a receipt.
+4. Users can use the same procedure to create mutliple orders.
 
 ## Input Format
 
-- Orders are entered via console input (keyboard).
-- Users select options from predefined menus for each category (e.g., base, protein, toppings, extras).
-- Inputs must match the options provided; invalid selections prompt the user to re-enter.
+- Orders are received via console input.
+- Users will select their options from predefined menus under various categories such as base, protein, toppings, etc.
+- Inputs must be matching the choices; if not, the user is prompted to enter requests again.
 
 ## Example Input Flow:
 
@@ -29,7 +29,7 @@
 
 ## Implementation Details
 
-- The program is implemented using structured programming (or object-oriented design if classes are used).
-- Menus and prices are stored internally in lists or dictionaries for easy retrieval and calculation.
-- The program tracks selected items, calculates the total cost dynamically, and formats a clear itemized receipt.
-- Input validation ensures users cannot select unavailable options, and the system handles multiple orders sequentially.
+- The program follows structured programming and object-oriented class designs.
+- Menus and prices are internally represented as lists or dictionaries for ease of access and computation.
+- The program keeps track of items selected, calculates the total cost, and provides an itemized receipt.
+- Input validation helps to avoid the selection of unavailable options, as the system will handle sequential orders.
