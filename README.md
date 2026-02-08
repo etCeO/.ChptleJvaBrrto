@@ -12,7 +12,7 @@
 1. Compile (if necessary) or run the program in the development environment (Java).
 2. Proceed to choose the type of burrito base, protein, and other extras through the menu prompts.
 3. Once the order is complete, the program calculates the total cost and displays a receipt.
-4. Users can use the same procedure to create mutliple orders.
+4. Users can repeat the same procedure to create mutliple orders.
 
 ## Input Format
 
